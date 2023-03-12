@@ -1,4 +1,4 @@
-package com.app
+package com.app.configuration
 
 import jdk.jfr.Enabled
 import org.springframework.context.annotation.Configuration
